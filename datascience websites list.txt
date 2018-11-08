@@ -1,0 +1,387 @@
+sas.com (2008) *** - statistics, big data, hadoop, analytics, business intelligence
+bigdatanews.com (2013) *** - big data, hadoop, analytics, data mining, predictive modeling, data science, business intelligence
+    jmp.com (2008) *** - statistics, analytics
+    metaoptimize.com (2011) *** - big data, machine learning, analytics
+    andrewgelman.com (2012) *** - statistics, analytics
+    analytics-magazine.org (2011) *** - statistics, big data, analytics, data mining, business intelligence, operations research
+    mathworks.com (2009) *** - machine learning
+    coursera.org (2012) *** - analytics
+    analyticsvidhya.com (2012) *** - text mining, big data, hadoop, analytics, data mining, predictive modeling, data science, business intelligence
+    itl.nist.gov (2008) *** - statistics, analytics, database
+    revolutionanalytics.com (2010) *** - statistics, big data, machine learning, analytics, data science
+    statistics.com (2008) *** - text mining, statistics, hadoop, analytics, data mining, predictive modeling, data science
+    ibm.com (2010) *** - big data, analytics
+    searchbusinessanalytics.techtarget.com (2011) *** - text mining, big data, hadoop, analytics, data mining, business intelligence
+    stat.columbia.edu (2009) *** - statistics, analytics
+    simplystatistics.org (2012) *** - statistics, big data, machine learning, hadoop, analytics, data science, operations research
+    statsoft.com (2008) *** - text mining, statistics, big data, analytics, data mining, business intelligence
+    tableausoftware.com (2008) *** - analytics, database, business intelligence
+    rdatamining.com (2011) *** - text mining, big data, hadoop, analytics, data mining
+    hunch.net (2008) *** - machine learning
+    dataminingblog.com (2008) *** - statistics, machine learning, hadoop, analytics, data mining, data science, business intelligence
+    information-management.com (2010) *** - big data, analytics, database, data science, business intelligence
+    oracle.com (2009) *** - big data, hadoop, analytics, database
+    b-eye-network.com (2009) *** - big data, analytics, data mining, database, business intelligence
+    amstat.org (2008) *** - statistics, big data, analytics
+    predictiveanalyticsworld.com (2008) *** - text mining, big data, analytics, data mining, predictive modeling, data science
+    kaushik.net (2008) *** - big data, analytics
+    informationisbeautiful.net (2011) *** - analytics
+    cs.waikato.ac.nz (2008) *** - machine learning, data mining, database
+    stats.stackexchange.com (2009) *** - statistics, machine learning, data mining
+    qlikview.com (2010) *** - big data, analytics, business intelligence
+    bigdatauniversity.com (2012) *** - big data, hadoop, analytics
+    quora.com (2011) *** - analytics
+    analyticsindiamag.com (2010) *** - big data, machine learning, hadoop, analytics, database, data science
+    bigml.com (2012) *** - big data, machine learning, analytics
+    data.gov (2012) *** - analytics
+    teradata.com (2008) *** - big data, hadoop, analytics, data mining, database, business intelligence
+    en.wikipedia.org (2008) *** - statistics
+    the-data-mine.com (2009) *** - statistics, data mining
+    blog.revolutionanalytics.com (2011) *** - statistics, big data, machine learning, hadoop, analytics, database, predictive modeling, data science
+    abbottanalytics.blogspot.com (2009) *** - text mining, statistics, big data, analytics, data mining, predictive modeling, business intelligence
+    smartdatacollective.com (2008) *** - big data, hadoop, analytics, data mining, data science, business intelligence
+    sqlserverdatamining.com (2008) *** - statistics, analytics, data mining, database
+    perceptualedge.com (2008) *** - big data, business intelligence
+    datamininglab.com (2008) *** - text mining, big data, analytics, data mining, predictive modeling
+    webtrends.com (2008) *** - analytics, business intelligence
+    autonlab.org (2008) *** - statistics, machine learning, analytics, data mining
+    cloudera.com (2010) *** - big data, hadoop, database
+    kxen.com (2008) *** - analytics
+    gapminder.org (2009) *** - statistics, analytics
+    informs.org (2008) *** - analytics, operations research
+    statmethods.net (2009) *** - statistics
+    sigkdd.org (2009) *** - big data, machine learning, analytics, data mining, data science
+    webanalyticsdemystified.com (2008) *** - big data, analytics
+    rapid-i.com (2008) *** - analytics, data mining
+    tdwi.org (2008) *** - big data, analytics, business intelligence
+    visual.ly (2012) *** - analytics
+    bigdata-startups.com (2013) *** - big data, hadoop, analytics, data mining, database, business intelligence
+    wolframalpha.com (2008) *** - statistics, analytics
+    wilmott.com (2008) *** - analytics
+    linkedin.com (2008) *** - analytics
+    flowingdata.com (2008) *** - statistics
+    r-bloggers.com (2008) *** - statistics, big data, machine learning, hadoop, analytics, database, data science, operations research
+    analyticsbridge.com (2008) *** - statistics, big data, machine learning, analytics, data mining, database, predictive modeling, data science, operations research
+    d3js.org (2012) *** - analytics
+    knime.org (2009) *** - big data, analytics
+    informationweek.com (2012) *** - big data, analytics
+    kaggle.com (2010) *** - statistics, big data, machine learning, analytics, data mining, predictive modeling, data science
+    pentaho.com (2012) *** - big data, analytics, business intelligence
+    splunk.com (2012) *** - big data, hadoop, analytics
+    allanalytics.com (2009) *** - statistics, big data, analytics, data mining, data science, business intelligence
+    datasciencecentral.com (2008) *** - big data, machine learning, hadoop, analytics, data mining, data science
+    datashaping.com (2008) *** - big data, analytics, data science
+    omniture.com (2008) *** - analytics
+    spotfire.tibco.com (2010) *** - analytics, data mining, business intelligence
+    webanalyticsassociation.org (2008) *** - big data, analytics
+    meetup.com (2011) *** - big data
+    datanami.com (2012) *** - big data, hadoop, analytics, data mining
+    reddit.com (2011) *** - analytics
+    thearling.com (2008) *** - statistics, machine learning, analytics, data mining, database, data science, business intelligence
+    kdnuggets.com (2008) *** - big data, analytics, data mining, data science
+    datatau.com (2014) *** - statistics, big data, analytics, data mining, data science
+    icrunchdata.com (2008) *** - statistics, big data, machine learning, hadoop, analytics, data mining, database, data science, business intelligence
+    rapidminer.com (2008) *** - analytics, data mining
+    iianalytics.com (2010) *** - big data, analytics
+    asterdata.com (2008) *** - big data, hadoop, analytics, data mining, database, business intelligence
+    coursera.com (2013) *** - analytics
+    analyticbridge.com (2008) *** - statistics, big data, machine learning, analytics, data mining, database, predictive modeling, data science, operations research
+    juiceanalytics.com (2008) *** - analytics, business intelligence
+    fivethirtyeight.com (2012) *** - analytics
+    kddnuggets.com (2008) *** - analytics
+    wolfram.com (2009) *** - statistics, analytics, data science, operations research
+    hadoop.apache.org (2011) *** - machine learning, hadoop, analytics, data mining, database
+    infosthetics.com (2008) *** - statistics, analytics
+    support.sas.com (2008) *** - statistics, hadoop, analytics, operations research
+    kdd.org (2008) *** - big data, machine learning, analytics, data mining, data science
+    data-miners.com (2009) *** - statistics, machine learning, analytics, data mining, database, business intelligence
+    businessintelligence.com (2009) *** - big data, machine learning, hadoop, analytics, data mining, data science, business intelligence
+    datascience101.wordpress.com (2012) *** - big data, machine learning, analytics, database, data science, business intelligence
+    microstrategy.com (2009) *** - big data, hadoop, analytics, database, business intelligence
+    journal.r-project.org (2010) ** - analytics
+    github.com (2012) ** - analytics
+    visualizing.org (2011) ** - statistics, analytics
+    dataspora.com (2009) ** - big data, machine learning, analytics
+    followthedata.wordpress.com (2012) ** - big data, machine learning, hadoop, analytics, data mining, database, predictive modeling, data science
+    rittmanmead.com (2013) ** - analytics, database, business intelligence
+    mahout.apache.org (2011) ** - text mining, machine learning, hadoop, data mining
+    infoworld.com (2012) ** - big data, analytics, database
+    fastml.com (2013) ** - big data, machine learning, analytics, data science
+    junkcharts.typepad.com (2008) ** - statistics, big data, analytics, data science
+    machinelearning.ru (2008) ** - statistics, machine learning, analytics, data mining
+    quiterian.com (2011) ** - big data, analytics, data mining, business intelligence
+    ayasdi.com (2013) ** - big data, machine learning, analytics, business intelligence
+    analyticsindia.com (2009) ** - big data, analytics, database, business intelligence
+    ucanalytics.com (2013) ** - big data, analytics, data mining, data science
+    acl.com (2010) ** - analytics
+    decisionstats.com (2008) ** - big data, analytics, data science
+    research.stlouisfed.org (2011) ** - analytics, database
+    dmreview.com (2008) ** - big data, analytics, database, data science, business intelligence
+    fangraphs.com (2009) ** - statistics, analytics
+    sqlservercentral.com (2013) ** - analytics, data mining, database, business intelligence
+    gooddata.com (2012) ** - analytics, business intelligence
+    fractalanalytics.com (2011) ** - big data, analytics, data science, business intelligence
+    operasolutions.com (2011) ** - big data, hadoop, analytics, data science
+    dataminingresearch.blogspot.com (2008) ** - text mining, statistics, machine learning, analytics, data mining, database, business intelligence
+    dbms2.com (2011) ** - big data, hadoop, analytics, database, predictive modeling, business intelligence
+    jigsawacademy.com (2012) ** - big data, hadoop, analytics, data science
+    isixsigma.com (2008) ** - analytics, database
+    videolectures.net (2008) ** - big data, analytics, data mining, data science
+    paper.li (2013) ** - analytics
+    visualcomplexity.com (2009) ** - database
+    analytics-magazine.com (2011) ** - statistics, big data, analytics, data mining, business intelligence, operations research
+    blogs.sas.com (2008) ** - text mining, big data, analytics, predictive modeling
+    hilarymason.com (2013) ** - machine learning, analytics, database, data science
+    webanalyticsworld.net (2008) ** - analytics
+    zementis.com (2008) ** - big data, machine learning, hadoop, analytics, database, data science
+    inside-r.org (2011) ** - statistics, machine learning, analytics, data science
+    hbr.org (2011) ** - analytics
+    gopivotal.com (2013) ** - big data, hadoop, analytics, database
+    snap.stanford.edu (2013) ** - analytics, data mining
+    economist.com (2011) ** - analytics
+    digitalanalyticsassociation.org (2012) ** - big data, analytics
+    crowdanalytix.com (2012) ** - analytics
+    census.gov (2009) ** - statistics, analytics
+    iapa.org.au (2011) ** - big data, analytics, data mining
+    mu-sigma.com (2011) ** - big data, hadoop, analytics, data science
+    atinternet.com (2008) ** - big data, analytics
+    oreilly.com (2012) ** - analytics, data science
+    www-03.ibm.com (2012) ** - big data, analytics
+    abbottanalytics.com (2012) ** - statistics, analytics, data mining
+    datamine.com (2011) ** - big data, analytics, data mining, database, predictive modeling
+    quantcast.com (2008) ** - statistics
+    lumina.com (2011) ** - analytics, business intelligence
+    predictionimpact.com (2008) ** - analytics, data mining, predictive modeling
+    informatica.com (2012) ** - big data, hadoop, analytics, database, business intelligence
+    analytictalent.com (2012) ** - statistics, big data, analytics, predictive modeling
+    piwik.org (2011) ** - analytics
+    ncbi.nlm.nih.gov (2012) ** - database
+    chandoo.org (2011) ** - analytics
+    nist.gov (2008) ** - analytics, database
+    sqlbi.com (2012) ** - analytics, business intelligence
+    johndcook.com (2010) ** - statistics, analytics
+    xkcd.com (2008) ** - analytics
+    kissmetrics.com (2011) ** - analytics
+    googleanalytics.com (2010) ** - analytics
+    datamining.typepad.com (2009) ** - text mining, statistics, analytics, data mining, database
+    webanalyticsassociation.com (2008) ** - big data, analytics
+    mydatamine.com (2011) ** - text mining, statistics, big data, machine learning, analytics, data mining, database, predictive modeling, data science, business intelligence
+    qlik.com (2014) ** - analytics, business intelligence
+    knime.com (2010) ** - big data, analytics
+    decideo.fr (2012) ** - big data, hadoop, analytics, data mining, data science, business intelligence
+    www-958.ibm.com (2011) ** - analytics
+    techrepublic.com (2010) ** - big data, analytics, database
+    sascommunity.org (2008) ** - analytics
+    modernanalyst.com (2011) ** - analytics
+    gartner.com (2008) ** - big data, analytics, business intelligence
+    anametrix.com (2012) ** - analytics, predictive modeling
+    edwardtufte.com (2009) ** - statistics, analytics
+    lavastorm.com (2011) ** - big data, analytics, database, business intelligence
+    gephi.org (2013) ** - analytics
+    bls.gov (2008) ** - statistics, database
+    data-informed.com (2012) ** - big data, hadoop, analytics, database
+    bigdatarepublic.com (2012) ** - big data, hadoop, analytics, database
+    analytics.google.com (2008) ** - analytics
+    dataists.com (2011) ** - statistics, machine learning, data science
+    scienceofbetter.org (2008) ** - big data, machine learning, analytics, operations research
+    compete.com (2008) ** - analytics
+    spotfire.com (2009) ** - analytics, data mining, business intelligence
+    defaultrisk.com (2008) ** - analytics
+    angoss.com (2012) ** - big data, analytics, data mining, business intelligence
+    tdan.com (2009) ** - analytics, data mining, business intelligence
+    sap.com (2012) ** - big data, analytics, database, business intelligence
+    stanford.edu (2011) ** - analytics
+    ibmbigdatahub.com (2013) ** - big data, hadoop, analytics, database
+    hortonworks.com (2013) ** - big data, hadoop, analytics, data science
+    deloitte.com (2010) ** - analytics
+    jtonedm.com (2008) ** - big data, hadoop, analytics, database
+    mathbabe.org (2012) ** - statistics, big data, analytics, database, data science
+    twocrows.com (2009) ** - analytics, data mining, database
+    mathworld.wolfram.com (2008) ** - statistics, analytics
+    analyticstraining.com (2010) ** - statistics, big data, hadoop, analytics, data science, business intelligence
+    alteryx.com (2012) ** - big data, hadoop, analytics, predictive modeling, business intelligence
+    datameer.com (2012) ** - big data, hadoop, analytics, database
+    hadoop.com (2012) ** - machine learning, hadoop, analytics, data mining, database
+    actuate.com (2012) ** - big data, analytics, business intelligence
+    infochimps.com (2011) ** - big data, hadoop, analytics, database
+    fico.com (2008) ** - big data, analytics, business intelligence
+    predictiveanalytics.org (2010) ** - analytics
+    web-datamining.net (2011) ** - analytics, data mining, database, business intelligence
+    stata.com (2008) ** - statistics, analytics
+    scikit-learn.org (2013) ** - machine learning, analytics, data mining
+    kimballgroup.com (2011) ** - analytics
+    datasciencelondon.org (2012) ** - text mining, statistics, big data, machine learning, hadoop, analytics, data mining, database, data science
+    analytics.theiegroup.com (2011) ** - big data, analytics
+    asq.org (2008) ** - statistics
+    sumologic.com (2012) * - big data, machine learning, analytics
+    datamarket.com (2012) * - statistics, analytics, data science
+    strata.oreilly.com (2012) * - analytics
+    freakonometrics.hypotheses.org (2013) * - statistics, big data, database, data science
+    data-mining.alltop.com (2013) * - text mining, statistics, big data, machine learning, analytics, data mining, database, data science
+    simafore.com (2011) * - analytics, data mining, database
+    normaldeviate.wordpress.com (2013) * - statistics, big data, machine learning
+    datagenetics.com (2013) * - analytics, data mining, database
+    absolutdata.com (2013) * - analytics
+    autonomy.com (2012) * - big data, hadoop, analytics, database
+    blog.echen.me (2013) * - statistics, machine learning, hadoop
+    blogs.oracle.com (2010) * - analytics, database
+    ocw.mit.edu (2008) * - statistics, analytics, database
+    analytics.ncsu.edu (2008) * - statistics, big data, analytics, data science
+    freakonometrics.blog.free.fr (2011) * - statistics, analytics, predictive modeling
+    attensity.com (2012) * - analytics
+    emc.com (2012) * - big data, analytics, data science
+    research.microsoft.com (2012) * - big data, machine learning, data mining
+    pietutors.com (2009) * - analytics
+    sisense.com (2013) * - big data, analytics, database, business intelligence
+    the-modeling-agency.com (2009) * - analytics, data mining, predictive modeling
+    timmanns.blogspot.com (2009) * - big data, analytics, data mining
+    inferx.com (2009) * - big data, machine learning, analytics, data mining, business intelligence
+    usaspending.gov (2011) * - analytics
+    sawtoothsoftware.com (2009) * - analytics
+    yahoo.com (2009) * - analytics
+    scoop.it (2012) * - analytics
+    rseek.org (2012) * - analytics
+    analyticsmagazine.com (2010) * - analytics
+    analytics.com (2008) * - analytics
+    customers-dna.com (2011) * - analytics, data mining
+    powerpivotpro.com (2013) * - analytics, business intelligence
+    tomdavenport.com (2011) * - analytics
+    discoverycorpsinc.com (2010) * - analytics, data mining
+    statsblogs.com (2013) * - text mining, statistics, big data, machine learning, analytics, data mining, data science, operations research
+    dataenthusiast.com (2011) * - statistics, big data, machine learning, hadoop, analytics, data science, business intelligence
+    talkstats.com (2012) * - statistics, operations research
+    talentanalytics.com (2010) * - analytics, data science, business intelligence
+    technet.microsoft.com (2013) * - hadoop, business intelligence
+    amplab.cs.berkeley.edu (2013) * - big data, machine learning, hadoop, analytics
+    smartertools.com (2012) * - statistics, analytics
+    many-eyes.com (2008) * - analytics
+    acm.org (2012) * - database
+    hp.com (2013) * - big data, analytics
+    visualisingdata.com (2012) * - analytics
+    datascienceassn.org (2013) * - text mining, statistics, big data, machine learning, analytics, data science
+    moz.com (2013) * - analytics
+    mors.org (2009) * - analytics, operations research
+    online-behavior.com (2011) * - analytics
+    pricingsociety.com (2009) * - analytics
+    apache.org (2013) * - big data, machine learning, hadoop, analytics, database
+    tomhcanderson.com (2008) * - text mining, big data, machine learning, analytics, data mining, database, data science
+    belladati.com (2013) * - analytics, business intelligence
+    g2cpartners.com (2010) * - analytics, predictive modeling
+    mapr.com (2011) * - big data, machine learning, hadoop, analytics, database
+    palisade.com (2009) * - analytics
+    practicalanalytics.wordpress.com (2011) * - statistics, big data, hadoop, analytics, data mining, database, data science, business intelligence
+    blog.webanalyticsdemystified.com (2008) * - analytics
+    megaputer.com (2011) * - text mining, analytics, data mining
+    class.coursera.org (2013) * - analytics
+    exceluser.com (2012) * - statistics, analytics, database, business intelligence
+    panopticon.com (2012) * - big data, analytics
+    analyticstraining.in (2009) * - statistics, big data, machine learning, analytics
+    enterpriseappstoday.com (2011) * - big data, analytics, data mining, business intelligence
+    bitpipe.com (2011) * - data mining, database, business intelligence
+    fna.fi (2010) * - analytics
+    businessforecastblog.com (2012) * - statistics, big data, machine learning, analytics, data mining, predictive modeling, data science
+    ssas-info.com (2012) * - analytics, database
+    thebusinessintelligenceguide.com (2011) * - text mining, machine learning, analytics, data mining, database, business intelligence
+    lunametrics.com (2008) * - analytics, data science
+    datawrangling.com (2010) * - statistics, big data, machine learning, hadoop, analytics, data mining, database, data science
+    mckinsey.com (2008) * - analytics
+    planetbigdata.com (2012) * - statistics, big data, machine learning, hadoop, analytics, database, data science
+    datascienceweekly.org (2014) * - analytics, data science
+    lib.stat.cmu.edu (2008) * - statistics, data mining
+    forrester.com (2008) * - big data, analytics
+    vertica.com (2009) * - big data, hadoop, analytics, database, business intelligence
+    blog.ramakrishnan.com (2010) * - big data, machine learning, analytics, database, data science
+    cutroni.com (2013) * - analytics
+    alpinenow.com (2013) * - big data, machine learning, hadoop, analytics, predictive modeling, data science
+    adobe.com (2013) * - analytics
+    semphonic.com (2012) * - big data, analytics
+    stattutorials.com (2012) * - statistics, big data, analytics
+    saffrontech.com (2011) * - big data, analytics
+    blogs.omniture.com (2010) * - analytics
+    cio.com (2012) * - big data, analytics
+    deskmetrics.com (2010) * - analytics
+    wise.io (2012) * - big data, machine learning, analytics, data science
+    aitopics.org (2013) * - machine learning, analytics, data mining
+    kmworld.com (2012) * - big data, analytics, business intelligence
+    crazyegg.com (2011) * - analytics
+    eric.univ-lyon2.fr (2011) * - database
+    kdkeys.net (2009) * - machine learning, analytics, data mining
+    openwebanalytics.com (2013) * - analytics, database
+    bloomberg.com (2009) * - analytics
+    tibco.com (2012) * - big data, analytics, business intelligence
+    seekingalpha.com (2009) * - database
+    ieeexplore.ieee.org (2011) * - analytics
+    bdisys.com (2011) * - big data, hadoop, analytics
+    orange.biolab.si (2012) * - text mining, machine learning, analytics, data mining
+    datacamp.com (2014) * - analytics, data science
+    jmlr.org (2014) * - statistics, machine learning
+    birst.com (2012) * - big data, analytics, business intelligence
+    visokio.com (2012) * - analytics
+    analyticrecruiting.com (2008) * - statistics, analytics, database, operations research
+    predixionsoftware.com (2012) * - big data, machine learning, analytics, business intelligence
+    alexa.com (2010) * - analytics
+    domo.com (2013) * - big data, analytics, business intelligence
+    rattle.togaware.com (2011) * - statistics, analytics, data mining
+    evolved-analytics.com (2010) * - analytics
+    spss.co.in (2011) * - text mining, statistics, analytics, data mining, business intelligence
+    datasift.com (2013) * - machine learning, analytics, business intelligence
+    searchbusinessanalytics.com (2011) * - text mining, big data, hadoop, analytics, data mining, business intelligence
+    beyenetwork.com (2008) * - big data, hadoop, analytics, data mining, database, business intelligence
+    apandre.wordpress.com (2008) * - statistics, big data, analytics, database, data science, business intelligence
+    advancednflstats.com (2011) * - statistics, analytics
+    comscore.com (2010) * - analytics
+    sec.gov (2012) * - analytics, database
+    hkotadia.com (2013) * - big data, machine learning, hadoop, analytics, data mining, database, predictive modeling
+    root.cern.ch (2008) * - statistics, analytics
+    decideo.ca (2012) * - big data, analytics, data science, business intelligence
+    clarabridge.com (2010) * - analytics
+    geniq.net (2008) * - statistics, big data, machine learning, data mining, database, predictive modeling
+    arxiv.org (2012) * - statistics, machine learning, database
+    tumbleweedmarketinganalytics.com (2011) * - statistics, big data, machine learning, hadoop, analytics, data mining, data science, business intelligence
+    gramener.com (2012) * - big data, analytics, database
+    teradatauniversitynetwork.com (2012) * - big data, analytics, database, business intelligence
+    highscalability.com (2010) * - big data, database
+    rexeranalytics.com (2009) * - statistics, big data, analytics, data mining, predictive modeling
+    techcrunch.com (2011) * - analytics
+    statoo.info (2008) * - statistics, big data, analytics, data mining, data science
+    sctr7.com (2012) * - statistics, analytics, data science, business intelligence
+    fooledbyrandomness.com (2008) * - statistics, big data
+    cms.gov (2012) * - statistics, database
+    bit.ly (2012) * - analytics
+    webmining.cl (2012) * - text mining, statistics, big data, analytics, data mining, data science, business intelligence
+    datainformed.com (2012) * - big data, hadoop, analytics, data science
+    cognos.com (2009) * - analytics, business intelligence
+    marketingsherpa.com (2008) * - statistics, analytics
+    jigsawacademy.in (2011) * - big data, hadoop, analytics, data science
+    dice.com (2008) * - analytics
+    textanalyticsnews.com (2009) * - text mining, big data, analytics, business intelligence
+    textanddatamining.blogspot.com (2011) * - text mining, analytics, data mining
+    developers.google.com (2012) * - analytics
+    dmstat1.com (2008) * - statistics, big data, machine learning, analytics, data mining, database, predictive modeling
+    1010data.com (2012) * - big data, analytics, database, business intelligence
+    quantum4d.com (2010) * - big data, analytics
+    bayesia.us (2012) * - machine learning, analytics
+    salesforce.com (2012) * - analytics
+    11antsanalytics.com (2011) * - machine learning, analytics
+    camo.com (2010) * - statistics, analytics, data mining
+    aryng.com (2011) * - analytics, business intelligence
+    sloanreview.mit.edu (2011) * - analytics
+    python.org (2012) * - analytics
+    sentdex.com (2014) * - text mining, big data, analytics, data mining
+    informationbuilders.com (2011) * - big data, analytics, database, business intelligence
+    jds-online.com (2013) * - statistics, data mining, data science
+    jawstats.com (2012) * - statistics, analytics
+    deeplearning.net (2013) * - machine learning, analytics
+    datasciencemasters.org (2014) * - text mining, statistics, big data, machine learning, hadoop, analytics, data mining, database, data science
+    thinkbiganalytics.com (2013) * - big data, machine learning, hadoop, analytics, data science
+    freakalytics.com (2012) * - analytics, data science
+    blog.gopivotal.com (2014) * - big data, analytics, database
+    alpinedatalabs.com (2012) * - big data, machine learning, hadoop, analytics, predictive modeling, data science
+    minneanalytics.org (2011) * - big data, analytics, data science
+    vis.stanford.edu (2011) * - big data, machine learning, analytics, database
+    datamininginsights.co.uk (2010) * - data mining
+    datacommunitydc.org (2013) * - statistics, big data, machine learning, hadoop, analytics, data science, operations research
+    targit.com (2011) * - big data, analytics, database, business intelligence
+    siam.org (2008) * - analytics, data mining
+
+

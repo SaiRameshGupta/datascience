@@ -1,0 +1,12 @@
+statistics
+big data
+hadoop
+analytics
+business intelligence
+data mining
+predictive modeling
+data science
+machine learning
+operations research
+text mining
+database
