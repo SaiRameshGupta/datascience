@@ -35,10 +35,15 @@ In this case the distance between each webiste is calculated using cosine simila
 
 
 Step 1:  Choose the words which are related to datascience and used as terms for clustering
+
 Step 2:  Choose the list of websites which are considered for clustering. This websites list is 	 	  obtained by any survey or via google search results.
+
 Step 3:  Crawl a website to get text from it and count the frequencies of the words(if any) choosen 	  in Step-1
+
 Step 4:  Find any hyperlinks in the current page to another webpage of the same webiste and repeat 	  Step-3
+
 Step 5:  Repeat steps 3 and 4 for all the websites considered in Step-2
+
 Step 6:  Cluster the websites by using K-Means and Hierarchical clustering algorithms done similar 	  to document clustering.
 
 PROBLEM STATEMENT AND METHODOLOGY----
